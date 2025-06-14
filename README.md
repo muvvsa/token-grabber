@@ -1,2 +1,2 @@
 # token-grabber
-discord token grabber
+EDUCIONAL PURPOSES ONLY!!!
